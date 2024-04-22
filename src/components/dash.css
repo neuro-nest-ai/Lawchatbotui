@@ -197,8 +197,8 @@ textarea:focus {
 
 
 .image-preview {
-  max-width: 50px; 
-  max-height: 50px; 
+  max-width: 100px; 
+  max-height: 100px; 
   overflow: hidden;
 }
 
@@ -207,10 +207,15 @@ textarea:focus {
   height: auto; 
 }
 
-
-.pdfimg{
-  width: 30px;
-  height: 30px;
-}
-
+.delete-icon {
+  color: rgb(68, 68, 68);
+  position: absolute;
+  top: 0px;
+  cursor: pointer;
+  z-index: 1;
+  border: 2px solid black;
+  border-radius: 50%; 
+  padding: 1px; 
+  font-size: 10px;
  
+}

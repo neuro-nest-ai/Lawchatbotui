@@ -22,7 +22,7 @@ nav {
 	top: 20px;
 	right: 0;
 	width: 40px;
-	height: 60px;
+	height: 45px;
 	border-top-right-radius: 5px;
 	border-bottom-right-radius: 5px;
 	display: flex;
@@ -31,7 +31,7 @@ nav {
 	background-color: #0c0c0c;
 	outline: none;
 	border: none;
-	font-size: 1rem;
+	font-size: 10px;
 	padding: 5px 10px;
 	cursor: pointer;
 	color: #fff;
